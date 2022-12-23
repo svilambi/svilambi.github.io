@@ -1,8 +1,7 @@
-<table style="border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody>
+
 <tr>
 <td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top">
-<br /> <p style="font-family: opensans, sans-serif; line-height: 25px; margin: 0; padding-top: 1em; font-size: 15px; text-align: justify;"><strong>Sunil Kumar </strong></p><a href="mailto:svilambi@gmail.com" target="_blank" rel="noopener">svilambi@gmail.com</a><br /> +91 9553990555
+<p style="font-family: opensans, sans-serif; line-height: 25px; margin: 0; padding-top: 1em; font-size: 15px; text-align: justify;"><strong>Sunil Kumar </strong></p><a href="mailto:svilambi@gmail.com" target="_blank" rel="noopener">svilambi@gmail.com</a><br /> +91 9553990555
 <br>Web : <a href="https://github.com/svilambi" target="_blank">Github</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sun7555/" target="_blank">LinkedIn</a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/2883272/sunil-kumar" target="_blank">Stackoverflow</a>&nbsp;&nbsp;<a href="https://www.hackerrank.com/svilambi?hr_r=1" target="_blank">HackerRank</a></br>
 
 Certifications : <a href="https://partner.cloudskillsboost.google/public_profiles/c7ee802d-a651-46f2-be77-c0e437761a55" target="_blank">GCP</a>&nbsp;&nbsp;<a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf" target="_blank">AWS CPE</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf" target="_blank">AWS CSAA</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-a786a3d5-ca74-48b1-bfd0-6d8ee7f46599.jpg" target="_blank">Github Actions</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1532119.pdf" target="_blank">CS AWS</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1525909.pdf" target="_blank">CS DevOps</a></br>
@@ -125,3 +124,40 @@ Certifications : <a href="https://partner.cloudskillsboost.google/public_profile
 </tr>
 <tr>
 </tr>
+<tr>
+<td>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div class="yj6qo">&nbsp;</div>
+<div class="adL">&nbsp;</div>
+</div>
+<div class="adL">&nbsp;</div>
+</div>
+<div class="adL">&nbsp;</div>
+</div>
+</body>
+</html>
