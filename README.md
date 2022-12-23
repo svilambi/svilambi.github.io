@@ -14,7 +14,7 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 </td>
 </tr>
 <tr>
-<td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top"><strong><strong> Professional Summary :</strong></strong>
+<td>
 <ul>
 <li>Over 7+ Years of DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
 <li>Automated Azure infrastructure using Terraform as Iaac (Infrastructure as a code), provisioned bot runner machines to end user.</li>
@@ -29,7 +29,7 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 </ul>
 <p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2015</strong> to <strong>March 2022</strong></p>
 <ul>
-<li>Working in multiple <strong>AWS</strong> services such as Route53, Load balancer, Auto Scaling, VPC, EC2, S3, Cloud Watch, Lambda, Dynamo DB.</li>
+<li>Worked on multiple <strong>AWS</strong> services such as Route53, Load balancer, Auto Scaling, VPC, EC2, S3, Cloud Watch, Lambda, Dynamo DB.</li>
 <li>Automated AWS infrastructure using Terraform as <strong>Iaac</strong> (Infrastructure as a code).</li>
 <li>Used Configuration Management using tools like Ansible to configure and install apps and packages on multiple servers using <strong>Ansible Playbooks</strong>.</li>
 <li>Used <strong>AWS load balancing </strong>for handling a constantly increasing user base & ensuring scalability & reliability</li>
