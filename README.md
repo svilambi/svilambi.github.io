@@ -49,7 +49,7 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 </td>
 </tr>
 <tr>
-<td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top"><strong> Software Skills : </strong><center>
+<td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top"><strong> Software Skills : </strong><center><br><br>
 <table>
 <tbody>
 <tr>
@@ -128,37 +128,5 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 <tr>
 <td>
 
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</center>
-<div class="yj6qo">&nbsp;</div>
-<div class="adL">&nbsp;</div>
-</div>
-<div class="adL">&nbsp;</div>
-</div>
-<div class="adL">&nbsp;</div>
-</div>
-</body>
-</html>
+
+
