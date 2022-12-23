@@ -9,14 +9,26 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 
 <p style="font-family: opensans, sans-serif; line-height: 25px; margin: 0; padding-top: 1em; font-size: 16px; text-align: justify;"><strong>Career Objective : </strong> To be part of an organization which offers a challenging and a growth-oriented Environment in the field of Information Technology and helps me to put my education and abilities to its maximum use. <br /> <br /> <strong>Work Experience:</strong></p>
 <p>Working in as a <strong>Technical Lead</strong> for <strong>Wipro Software</strong> from <strong>April 2022</strong> to <strong>Till Date</strong></p>
-<p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2015</strong> to <strong>March 2022</strong></p>
-<p>Worked in as a <strong>Java Developer</strong> for <strong>SkillFarm </strong>from <strong>February 2014</strong> to <strong>April 2015</strong></p>
+
+
 </td>
 </tr>
 <tr>
 <td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top"><strong><strong> Professional Summary :</strong></strong>
 <ul>
 <li>Over 7+ Years of DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
+<li>Automated Azure infrastructure using Terraform as Iaac (Infrastructure as a code), provisioned bot runner machines to end user.</li>
+<li>Working with Azure Monitoring tools such as Azure log Analytics, Azure Network watcher and Azure Service Health to diagnose and minimize service degradation.</li>
+<li>Creating and managing Windows images in Azure.</li>
+<li>Used Configuration Management using tools like Ansible to configure, install apps and packages on multiple servers using Ansible Playbooks.</li>
+<li>Experienced in Working on Source controller tools like GIT to versionize the terraform and ansible playbooks.</li>
+<li>Experience in using issue tracking tool like ServiceNow.</li>
+<li>Working with multiple teams to setup the APM/BPM alerts on the Application.</li>
+<li>Experience is using CyberArk tool, to make any changes in the Customer facing environments.</li>
+<li>Working on On-Prem Active Directory groups, to provide access to bot runner users.</li>
+</ul>
+<p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2015</strong> to <strong>March 2022</strong></p>
+<ul>
 <li>Working in multiple <strong>AWS</strong> services such as Route53, Load balancer, Auto Scaling, VPC, EC2, S3, Cloud Watch, Lambda, Dynamo DB.</li>
 <li>Automated AWS infrastructure using Terraform as <strong>Iaac</strong> (Infrastructure as a code).</li>
 <li>Used Configuration Management using tools like Ansible to configure and install apps and packages on multiple servers using <strong>Ansible Playbooks</strong>.</li>
@@ -37,6 +49,9 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 <li>Basic Smoke testing the application after the deployment.</li>
 <li>Able to prepare scripts for test cases in <strong>Selenium</strong>.</li>
 <li>Able to Create Executable for Jar files using <strong>Exe4j</strong>.</li>
+</ul>
+<p>Worked in as a <strong>Java Developer</strong> for <strong>SkillFarm </strong>from <strong>February 2014</strong> to <strong>April 2015</strong></p>
+<ul>
 <li>Good Exposure to <strong>Core Java , Servlet , JSP </strong></li>
 <li>Good Exposure in using of <strong>Oracle</strong>.</li>
 <li>Skilled in understanding software requirement specifications and developing applications.</li>
