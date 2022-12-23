@@ -17,14 +17,14 @@ DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,in
 <td>
 <ul>
 <li>Over 7+ Years of DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
-<li>Automated Azure infrastructure using Terraform as Iaac (Infrastructure as a code), provisioned bot runner machines to end user.</li>
-<li>Working with Azure Monitoring tools such as Azure log Analytics, Azure Network watcher and Azure Service Health to diagnose and minimize service degradation.</li>
+<li>Automated Azure infrastructure using <strong>Terraform</strong> as <strong>Iaac</strong> (Infrastructure as a code), provisioned bot runner machines to end user.</li>
+<li>Working with Azure Monitoring tools such as <strong>Azure log Analytics</strong>, <strong>Azure Network watcher</strong> and <strong>Azure Service Health</strong> to diagnose and minimize service degradation.</li>
 <li>Creating and managing Windows images in Azure.</li>
-<li>Used Configuration Management using tools like Ansible to configure, install apps and packages on multiple servers using Ansible Playbooks.</li>
-<li>Experienced in Working on Source controller tools like GIT to versionize the terraform and ansible playbooks.</li>
-<li>Experience in using issue tracking tool like ServiceNow.</li>
+<li>Used Configuration Management using tools like <strong>Ansible</strong> to configure, install apps and packages on multiple servers using Ansible Playbooks.</li>
+<li>Experienced in Working on Source controller tools like <strong>GIT</strong> to versionize the terraform and ansible playbooks.</li>
+<li>Experience in using issue tracking tool like <strong>ServiceNow</strong>.</li>
 <li>Working with multiple teams to setup the APM/BPM alerts on the Application.</li>
-<li>Experience is using CyberArk tool, to make any changes in the Customer facing environments.</li>
+<li>Experience is using <strong>CyberArk</strong> tool, to make any changes in the Customer facing environments.</li>
 <li>Working on On-Prem Active Directory groups, to provide access to bot runner users.</li>
 </ul>
 <p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2015</strong> to <strong>March 2022</strong></p>
