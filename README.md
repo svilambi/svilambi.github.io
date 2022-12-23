@@ -1,4 +1,5 @@
-### Hi, I am Sunil Kumar  👋 DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,integrating AWS cloud based infrastructure components and developing automation solutions.
+### Hi, I am Sunil Kumar
+DevOps Engineer with 7+ years of experience in managing cloud infrastructure ,integrating cloud based infrastructure components and developing automation solutions.
 <tr>
 <td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top">
 <a href="mailto:svilambi@gmail.com" target="_blank" rel="noopener">svilambi@gmail.com</a><br /> +91 9553990555
