@@ -10,7 +10,7 @@ DevOps Engineer with 10+ years of experience in managing cloud infrastructure ,i
   <a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf" target="_blank">AWS CPE</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf" target="_blank">AWS CSAA</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-a786a3d5-ca74-48b1-bfd0-6d8ee7f46599.jpg" target="_blank">Github Actions</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1532119.pdf" target="_blank">CS AWS</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1525909.pdf" target="_blank">CS DevOps</a><br></p>
 
 <p style="font-family: opensans, sans-serif; line-height: 25px; margin: 0; padding-top: 1em; font-size: 16px; text-align: justify;"><strong>Career Objective : </strong> To be part of an organization which offers a challenging and a growth-oriented Environment in the field of Information Technology and helps me to put my education and abilities to its maximum use. <br /> <br /> <strong>Work Experience:</strong></p>
-<p>Working in as a <strong>Technical Lead</strong> for <strong>Wipro Software Client : SRE at GSK </strong> from <strong>April 2020</strong> to <strong>April 2023</strong></p>
+<p>Working in as a <strong>Technical Lead</strong> for <strong>Wipro Software Client : SRE at GSK </strong> from <strong>April 2022</strong> to <strong>June 2023</strong></p>
 
 
 </td>
@@ -29,7 +29,7 @@ DevOps Engineer with 10+ years of experience in managing cloud infrastructure ,i
 <li>Experience is using <strong>CyberArk</strong> tool, to make any changes in the Customer facing environments.</li>
 <li>Working on On-Prem Active Directory groups, to provide access to bot runner users.</li>
 </ul>
-<p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2014</strong> to <strong>March 2020</strong></p>
+<p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2014</strong> to <strong>March 2022</strong></p>
 <ul>
 <li>Worked on multiple <strong>AWS</strong> services such as Route53, Load balancer, Auto Scaling, VPC, EC2, S3, Cloud Watch, Lambda, Dynamo DB.</li>
 <li>Automated AWS infrastructure using Terraform as <strong>Iaac</strong> (Infrastructure as a code).</li>
