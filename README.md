@@ -29,7 +29,7 @@ DevOps Engineer with 10+ years of experience in managing cloud infrastructure ,i
 <li>Experience is using <strong>CyberArk</strong> tool, to make any changes in the Customer facing environments.</li>
 <li>Working on On-Prem Active Directory groups, to provide access to bot runner users.</li>
 </ul>
-<p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2014</strong> to <strong>March 2022</strong></p>
+<p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2015</strong> to <strong>March 2022</strong></p>
 <ul>
 <li>Worked on multiple <strong>AWS</strong> services such as Route53, Load balancer, Auto Scaling, VPC, EC2, S3, Cloud Watch, Lambda, Dynamo DB.</li>
 <li>Automated AWS infrastructure using Terraform as <strong>Iaac</strong> (Infrastructure as a code).</li>
@@ -52,7 +52,7 @@ DevOps Engineer with 10+ years of experience in managing cloud infrastructure ,i
 <li>Able to prepare scripts for test cases in <strong>Selenium</strong>.</li>
 <li>Able to Create Executable for Jar files using <strong>Exe4j</strong>.</li>
 </ul>
-<p>Worked in as a <strong>Java Developer</strong> for <strong>SkillFarm </strong>from <strong>March 2012</strong> to <strong>April 2014</strong></p>
+<p>Worked in as a <strong>Java Developer</strong> for <strong>SkillFarm </strong>from <strong>March 2014</strong> to <strong>April 2015</strong></p>
 <ul>
 <li>Good Exposure to <strong>Core Java , Servlet , JSP </strong></li>
 <li>Good Exposure in using of <strong>Oracle</strong>.</li>
