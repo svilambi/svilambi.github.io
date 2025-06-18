@@ -10,8 +10,15 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
   <a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf" target="_blank">AWS CPE</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf" target="_blank">AWS CSAA</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-a786a3d5-ca74-48b1-bfd0-6d8ee7f46599.jpg" target="_blank">Github Actions</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1532119.pdf" target="_blank">CS AWS</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1525909.pdf" target="_blank">CS DevOps</a><br></p>
 
 <p style="font-family: opensans, sans-serif; line-height: 25px; margin: 0; padding-top: 1em; font-size: 16px; text-align: justify;"><strong>Career Objective : </strong> To be part of an organization which offers a challenging and a growth-oriented Environment in the field of Information Technology and helps me to put my education and abilities to its maximum use. <br /> <br /> <strong>Work Experience:</strong></p>
-<p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong>to <strong>till date</strong></p>
+<p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>till date</strong></p>
 <li>Over 11+ Years of Lead DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
+<li>Designed and implemented robust CI/CD pipelines using Jenkins, significantly improving software delivery efficiency.</li>
+<li>Orchestrated containerized applications using Kubernetes, reducing deployment complexities and enhancing scalability.</li>
+<li>Collaborated with development and operations teams to implement Infrastructure as Code (IaC) practices, ensuring consistent and reproducible deployments.</li>
+<li>Implemented advanced monitoring and alerting systems, including Prometheus and Grafana, to enhance system visibility and reliability.</li>
+<li>Played a key role in securing the infrastructure by implementing best practices such as Role-Based Access Control (RBAC) and SSL/TLS encryption.</li>
+<li>Conducted regular security audits and vulnerability assessments, addressing issues proactively to maintain a secure environment.</li>
+<li>Managed Docker container clusters using Kubernetes on AWS (EKS), leveraging Linux, Bash, Git, and Docker for the CI/CD system's runtime environment.</li>
 </td>
 </tr>
 <tr>
