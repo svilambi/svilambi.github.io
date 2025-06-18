@@ -1,5 +1,5 @@
 ### Hi, I am Sunil Kumar
-DevOps Engineer with 10+ years of experience in managing cloud infrastructure ,integrating cloud based infrastructure components and developing automation solutions.
+Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructure ,integrating cloud based infrastructure components and developing automation solutions.
 <tr>
 <td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top">
   
@@ -10,15 +10,14 @@ DevOps Engineer with 10+ years of experience in managing cloud infrastructure ,i
   <a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf" target="_blank">AWS CPE</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf" target="_blank">AWS CSAA</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-a786a3d5-ca74-48b1-bfd0-6d8ee7f46599.jpg" target="_blank">Github Actions</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1532119.pdf" target="_blank">CS AWS</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1525909.pdf" target="_blank">CS DevOps</a><br></p>
 
 <p style="font-family: opensans, sans-serif; line-height: 25px; margin: 0; padding-top: 1em; font-size: 16px; text-align: justify;"><strong>Career Objective : </strong> To be part of an organization which offers a challenging and a growth-oriented Environment in the field of Information Technology and helps me to put my education and abilities to its maximum use. <br /> <br /> <strong>Work Experience:</strong></p>
-<p>Working in as a <strong>Technical Lead</strong> for <strong>Wipro Software Client : SRE at GSK </strong> from <strong>April 2022</strong> to <strong>June 2023</strong></p>
-
-
+<p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong></p>
+<li>Over 11+ Years of Lead DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
 </td>
 </tr>
 <tr>
 <td>
+<p>Worked in as a <strong>Technical Lead</strong> for <strong>Wipro Software Client : SRE at GSK</strong> from <strong>April 2022</strong> to <strong>June 2023</strong></p>
 <ul>
-<li>Over 10+ Years of DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
 <li>Automated Azure infrastructure using <strong>Terraform</strong> as <strong>Iaac</strong> (Infrastructure as a code), provisioned bot runner machines to end user.</li>
 <li>Working with Azure Monitoring tools such as <strong>Azure log Analytics</strong>, <strong>Azure Network watcher</strong> and <strong>Azure Service Health</strong> to diagnose and minimize service degradation.</li>
 <li>Creating and managing Windows images in Azure.</li>
