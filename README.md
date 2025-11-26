@@ -13,6 +13,8 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 <p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>till date</strong></p>
 <ul>
 <li>Over 11+ Years of Lead DevOps Engineer in automating, building, deploying and releasing of code from one environment to another environment.</li>
+<li>Built dbt models for data transformations, improving consistency and re-usability in analytics workflows.</li>
+<li>Developed and optimized ADF pipelines to orchestrate ingestion and transformation workflows across Snowflake and Databricks.</li>
 <li>Designed and implemented robust CI/CD pipelines using Jenkins, significantly improving software delivery efficiency.</li>
 <li>Orchestrated containerized applications using Kubernetes, reducing deployment complexities and enhancing scalability.</li>
 <li>Collaborated with development and operations teams to implement Infrastructure as Code (IaC) practices, ensuring consistent and reproducible deployments.</li>
@@ -25,7 +27,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 </tr>
 <tr>
 <td>
-<p>Worked in as a <strong>Technical Lead</strong> for <strong>Wipro Software Client : SRE at GSK</strong> from <strong>April 2022</strong> to <strong>June 2023</strong></p>
+<p>Worked in as a <strong>Technical Lead</strong> for <strong>Wipro Software Pvt</strong> Client : <strong> SRE </strong>at <strong>GSK</strong> from <strong>April 2022</strong> to <strong>June 2023</strong></p>
 <ul>
 <li>Automated Azure infrastructure using <strong>Terraform</strong> as <strong>Iaac</strong> (Infrastructure as a code), provisioned bot runner machines to end user.</li>
 <li>Working with Azure Monitoring tools such as <strong>Azure log Analytics</strong>, <strong>Azure Network watcher</strong> and <strong>Azure Service Health</strong> to diagnose and minimize service degradation.</li>
@@ -62,9 +64,22 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 </ul>
 <p>Worked in as a <strong>Java Developer</strong> for <strong>SkillFarm </strong>from <strong>March 2014</strong> to <strong>April 2015</strong></p>
 <ul>
-<li>Good Exposure to <strong>Core Java , Servlet , JSP </strong></li>
-<li>Good Exposure in using of <strong>Oracle</strong>.</li>
-<li>Skilled in understanding software requirement specifications and developing applications.</li>
+
+<p><strong>Major Achievements: </strong></p>
+<ul>
+<li>Developed Java based application for reading data from the excel sheet and filtering the data.</li>
+<li>SMTP, Java Mail, and JXL Libraries for sending Mails.</li>
+</ul>
+<br>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li>Implemented MVC architecture.</li>
+<li>Responsible for handling Designing Layer and Data Access Layer.</li>
+<li>Utilized Java technology extensively for data retrieving, querying, storage, and manipulation.</li>
+<li>Translating technical specifications into code and documenting the code.</li>
+<li>Analyze existing business applications and leverage knowledge of data analytics to identify opportunities to enhance functionality.</li>
+<li>Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.</li>
+</ul>
 </ul>
 <p><strong> Academic Chronicle : </strong></p>
 <ul style="text-align: left;">
@@ -73,84 +88,6 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 </ul>
 </td>
 </tr>
-<tr>
-<td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top"><strong> Software Skills : </strong><center><br><br>
-<table>
-<tbody>
-<tr>
-<td>&nbsp;</td>
-<td>Operating Systems</td>
-<td>:</td>
-<td>Windows and Linux.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Build &amp; CI Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td>:</td>
-<td>Jenkins, Nexus, Maven, Apache Archiva, Nuget, Dockers</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>SCM Tools</td>
-<td>:</td>
-<td>GIT, SVN, TFS.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Programming Languages</td>
-<td>:</td>
-<td>Java</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Scripting Languages</td>
-<td>:</td>
-<td>Ant,Powershell</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Web/App Servers</td>
-<td>:</td>
-<td>JBoss, Wildfly, Apache Tomcat.</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Java Technologies</td>
-<td>:</td>
-<td>Servlets, JSP</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Databases</td>
-<td>:</td>
-<td>SQL, Oracle, SQLite</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Web Technologies</td>
-<td>:</td>
-<td>HTML, Java Script, JQuery, CSS</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>IDE</td>
-<td>:</td>
-<td>Eclipse, Intellij, Netbeans</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Collaboration Tools</td>
-<td>:</td>
-<td>JIRA, Slack</td>
-</tr>
-</tbody>
-</table>
-</center>
-</td>
-</tr>
-<tr>
-</tr>
-<tr>
 <td>
 
 
