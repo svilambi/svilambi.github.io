@@ -49,8 +49,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 
 <li>Collaborated with cross-functional teams to set up APM/BPM alerts and improve system health visibility.</li>
 </ul>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Worked in as a <strong>Technical Lead</strong> for <strong>Wipro Software Pvt</strong> Client : <strong> SRE </strong>at <strong>GSK</strong> from <strong>April 2022</strong> to <strong>June 2023</strong></p>
