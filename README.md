@@ -143,7 +143,6 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 <li>Analyze existing business applications and leverage knowledge of data analytics to identify opportunities to enhance functionality.</li>
 <li>Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.</li>
 </ul>
-</ul>
 <p><strong> Academic Chronicle : </strong></p>
 <ul style="text-align: left;">
 <li>Master of Technology (<strong>M.Tech</strong>) (Computer Science) 2014  <br>Samskruthi College of Engineering and Technology Affiliated to <strong>JNTU</strong> (Hyderabad)</li>
