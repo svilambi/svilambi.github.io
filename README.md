@@ -61,7 +61,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 <li>Strengthened application reliability with Prometheus, Log Analytics, and alerting automation.</li>
   </ul>
 
-  <p><strong>Responsibilities:</strong></p>
+  <p><strong>Responsibilities:</strong>
 <ul>
 
 <li>Built Databricks notebooks and workflows for large-scale data processing into Snowflake.</li>
