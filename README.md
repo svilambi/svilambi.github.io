@@ -147,9 +147,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 <li>Master of Technology (<strong>M.Tech</strong>) (Computer Science) 2014  <br>Samskruthi College of Engineering and Technology Affiliated to <strong>JNTU</strong> (Hyderabad)</li>
 <li>Bachelor of Technology (<strong>B.Tech</strong>) (Computer Science) 2011  <br>Maheshwara Engineering College Affiliated to <strong>JNTU</strong> (Hyderabad)</li>
 </ul>
-</td>
-</tr>
-<td>
+
 
 
 
