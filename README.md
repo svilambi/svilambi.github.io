@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="jxleSsix7aaLoX6YqpqlsbTOzBrrlaL9Yvpc6nMRxAc" />
 ### Hi, I am Sunil Kumar
 Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructure ,integrating cloud based infrastructure components and developing automation solutions.
 <tr>
@@ -10,7 +9,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
   </strong><a href="https://www.credly.com/badges/0ddca455-500d-4d31-9f7b-d0330970172d/linked_in_profile" target="_blank">AWS Solutions Architect – Associate</a>&nbsp;&nbsp;<a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/Certifications+-+sunilkumar-4005+_+Microsoft+Learn.pdf" target="_blank">AZ-900</a>&nbsp;&nbsp;<a href="https://partner.cloudskillsboost.google/public_profiles/c7ee802d-a651-46f2-be77-c0e437761a55" target="_blank">GCP</a>&nbsp;&nbsp;
   <a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf" target="_blank">AWS CPE</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf" target="_blank">AWS CSAA</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-a786a3d5-ca74-48b1-bfd0-6d8ee7f46599.jpg" target="_blank">Github Actions</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1532119.pdf" target="_blank">CS AWS</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1525909.pdf" target="_blank">CS DevOps</a><br></p>
 
-<p><strong>Career Objective : </strong> Lead DevOps Engineer with 11+ years of experience designing scalable cloud infrastructures, implementing CI/CD pipelines, automating deployments, and building enterprise-grade observability systems. Strong expertise across AWS, Azure, Kubernetes, Terraform, Jenkins, ELK, and Databricks. Proven track record of improving delivery speed, reducing operational costs, enhancing system reliability, and enabling data-driven decision-making through advanced analytics pipelines. <br /> <br /> 
+<p><strong>Career Objective : </strong> Lead DevOps Engineer with 11+ years of experience designing scalable cloud infrastructures, implementing CI/CD pipelines, automating deployments, and building enterprise-grade observability systems. Strong expertise across AWS, Azure, Kubernetes, Terraform, Jenkins, ELK, and Databricks. Proven track record of improving delivery speed, reducing operational costs, enhancing system reliability, and enabling data-driven decision-making through advanced analytics pipelines.
   
   <strong>Work Experience:</strong></p>
   
