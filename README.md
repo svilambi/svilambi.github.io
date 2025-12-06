@@ -60,7 +60,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 
 <li>Strengthened application reliability with Prometheus, Log Analytics, and alerting automation.</li>
   </ul>
-  </p>
+
   <p><strong>Responsibilities:</strong></p>
 <ul>
 
