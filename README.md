@@ -12,7 +12,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
   <a href="https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf" target="_blank">AWS CPE</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf" target="_blank">AWS CSAA</a>&nbsp;&nbsp;<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-a786a3d5-ca74-48b1-bfd0-6d8ee7f46599.jpg" target="_blank">Github Actions</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1532119.pdf" target="_blank">CS AWS</a>&nbsp;&nbsp;<a href="https://certificates.simplicdn.net/share/1525909.pdf" target="_blank">CS DevOps</a><br></p>
 
 <p><strong>Career Objective : </strong> Lead DevOps Engineer with 11+ years of experience designing scalable cloud infrastructures, implementing CI/CD pipelines, automating deployments, and building enterprise-grade observability systems. Strong expertise across AWS, Azure, Kubernetes, Terraform, Jenkins, ELK, and Databricks. Proven track record of improving delivery speed, reducing operational costs, enhancing system reliability, and enabling data-driven decision-making through advanced analytics pipelines.
-  
+  <br/>
   <strong>Work Experience:</strong></p>
   
 <p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>till date</strong></p>
