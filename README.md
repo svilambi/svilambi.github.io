@@ -1,7 +1,7 @@
 ### Hi, I am Sunil Kumar
 Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructure ,integrating cloud based infrastructure components and developing automation solutions.
 <tr>
-<td style="border-collapse: collapse; color: #000; font-family: opensans, sans-serif; font-size: 16px; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top">
+<td style="border-collapse: collapse; color: #000; line-height: 150%; text-align: left; padding: 0px 25px 15px 25px;" valign="top">
   
 <p><strong>Web : </strong><a href="https://github.com/svilambi" target="_blank">Github</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sun7555/" target="_blank">LinkedIn</a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/2883272/sunil-kumar" target="_blank">Stackoverflow</a>&nbsp;&nbsp;<a href="https://www.hackerrank.com/svilambi?hr_r=1" target="_blank">HackerRank</a><br></p>
 
