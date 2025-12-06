@@ -90,7 +90,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 
 <li>Conducted POCs for GitHub Actions automation of bot runner machines.</li>
 </ul>
-</p>
+
 <p>Worked in as a <strong>DevOps Engineer</strong> for <strong>Amphora Software</strong> from <strong>April 2015</strong> to <strong>March 2022</strong></p>
 <p><strong>Key Achievements:</strong></p>
   <ul>
