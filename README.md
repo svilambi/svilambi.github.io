@@ -15,7 +15,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
   <br/><br/>
   <strong>Work Experience:</strong></p>
   
-<p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>till date</strong></p>
+<p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>December 2025</strong></p>
 <p><strong>Key Achievements:</strong></p>
   <ul>
     <li>Improved software release efficiency by implementing optimized CI/CD pipelines using Jenkins, enhancing deployment reliability and speed.</li>
