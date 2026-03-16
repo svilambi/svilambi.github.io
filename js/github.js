@@ -1,6 +1,6 @@
 
 const username="svilambi"
-fetch(`https://api.github.com/users/${username}`)
+fetch(`https://api.github.com/users/svilambi`)
 .then(r=>r.json())
 .then(d=>{
 document.getElementById("metrics").innerHTML=
