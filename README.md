@@ -74,6 +74,10 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 
 <li>Managed AWS infrastructure including EC2, VPC, S3, and VPC configurations.</li>
 
+<li>Developed Python scripts to automate infrastructure tasks, log analysis, and deployment activities across AWS and Kubernetes environments.</li>
+
+<li>Built Python-based utilities for monitoring, reporting, and automation, improving operational efficiency and reducing manual effort.</li>
+
 <li>Utilized Azure monitoring tools for performance tuning and issue diagnosis.</li>
 
 <li>Developed and deployed enterprise Java/J2EE applications across Windows and Linux.</li>
