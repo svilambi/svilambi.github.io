@@ -12,7 +12,7 @@ body{font-family:Arial,sans-serif;margin:0;background:#f5f5f5;color:#333;line-he
 .navbar a{color:#fff;text-decoration:none;margin:0 8px}
 .container{max-width:1100px;margin:auto;padding:30px 20px}
 .hero{text-align:center;padding:55px 20px;background:#fff}
-.profile{width:150px;height:150px;object-fit:cover;border-radius:50%}
+.profile{width:150px;height:150px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;background:#111;color:#fff;font-size:52px;font-weight:700}
 .btn{display:inline-block;padding:10px 18px;background:#0077ff;color:#fff;text-decoration:none;border-radius:6px;margin:8px}
 .btn.secondary{background:#444}
 .card{background:#fff;margin:22px 0;padding:25px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
@@ -36,7 +36,7 @@ footer{text-align:center;padding:30px;background:#111;color:#fff}
 </header>
 
 <section class="hero">
-<img src="images/profile.jpg" class="profile" alt="Sunil Vilambi">
+<div class="profile" aria-label="Sunil Vilambi">SV</div>
 <h1>Sunil Kumar Vilambi</h1>
 <h3>Lead DevOps Engineer | Cloud | Automation</h3>
 <p>11+ years of experience designing scalable cloud infrastructure, implementing CI/CD pipelines, automating deployments, and building enterprise-grade observability systems.</p>
