@@ -25,31 +25,17 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
   <p><strong>Responsibilities:</strong></p>
 <ul>
 
-<li>Built dbt models for data transformations, enhancing data consistency and reusability.</li>
-
-<li>Developed and optimized Azure Data Factory pipelines for ingestion and transformation across Snowflake and Databricks.</li>
-
-<li>Designed Power BI dashboards connected to Snowflake and Azure SQL for real-time reporting.</li>
-
-<li>Implemented Jenkins-based CI/CD pipelines to streamline software delivery and reduce manual interventions.</li>
-
-<li>Managed containerized applications with Kubernetes, enabling scalable and resilient deployments.</li>
-
-<li>Drove Infrastructure-as-Code adoption using Terraform and Ansible for consistent environment provisioning.</li>
-
-<li>Implemented monitoring and alerting with Prometheus, Grafana, and ELK Stack for improved reliability.</li>
-
-<li>Strengthened cloud security with RBAC, TLS/SSL, and proactive security audits.</li>
-
-<li>Managed Docker workloads on AWS EKS using Linux, Bash, and Git.</li>
-
-<li>Integrated Elasticsearch for advanced log search, index optimization, and query tuning.</li>
-
-<li>Built centralized log management using ELK, handling multi‑source log ingestion and enrichment.</li>
-
-<li>Collaborated with cross-functional teams to set up APM/BPM alerts and improve system health visibility.</li>
+<li>Designed and maintained enterprise CI/CD platforms using GitHub Actions and Jenkins.</li>
+<li>Implemented infrastructure automation using Terraform across AWS environments.</li>
+<li>Managed Kubernetes platforms including Amazon ECS</li>
+<li>Developed reusable Terraform modules and standardized infrastructure provisioning.</li>
+<li>Designed VNET-integrated GitHub Actions runner infrastructure for controlled enterprise workloads.</li>
+<li>Implemented monitoring and observability using Splunk.</li>
+<li>Established SLO-oriented monitoring and operational practices.</li>
+<li>Integrated security tooling such as Snyk and SonarQube into CI/CD pipelines.</li>
+<li>Automated cloud infrastructure, application deployments and operational processes.</li>
+<li>Worked across cloud and on-premises environments to standardize infrastructure and deployment practices.</li>
 </ul>
-
 
 <p>Worked in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>December 2025</strong></p>
 <p><strong>Key Achievements:</strong></p>
