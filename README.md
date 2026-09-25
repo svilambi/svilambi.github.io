@@ -178,3 +178,6 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 
 
 
+
+
+<!-- Portfolio site restored and kept in sync with the current profile. -->
