@@ -14,8 +14,44 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 <p><strong>Career Objective : </strong> Lead DevOps Engineer with 11+ years of experience designing scalable cloud infrastructures, implementing CI/CD pipelines, automating deployments, and building enterprise-grade observability systems. Strong expertise across AWS, Azure, Kubernetes, Terraform, Jenkins, ELK, and Databricks. Proven track record of improving delivery speed, reducing operational costs, enhancing system reliability, and enabling data-driven decision-making through advanced analytics pipelines.
   <br/><br/>
   <strong>Work Experience:</strong></p>
-  
-<p>Working in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>December 2025</strong></p>
+
+<p>Working in as a <strong>Senior DevOps ML/Ops Engineer</strong> for <strong>DXC Luxoft </strong> from <strong>June 2026</strong> to <strong>Till Date</strong> Client : <strong>S&P Global </strong></p>
+<p><strong>Key Achievements:</strong></p>
+  <ul>
+    <li>Improved software release efficiency by implementing optimized CI/CD pipelines using Github Actions, enhancing deployment reliability and speed.</li>
+    <li>Enhanced analytics workflows by building reusable dbt models and scalable ADF pipelines.</li>
+    <li>Reduced troubleshooting time by establishing end-to-end observability with Prometheus, Grafana, and Elasticsearch.</li>
+  </ul>
+  <p><strong>Responsibilities:</strong></p>
+<ul>
+
+<li>Built dbt models for data transformations, enhancing data consistency and reusability.</li>
+
+<li>Developed and optimized Azure Data Factory pipelines for ingestion and transformation across Snowflake and Databricks.</li>
+
+<li>Designed Power BI dashboards connected to Snowflake and Azure SQL for real-time reporting.</li>
+
+<li>Implemented Jenkins-based CI/CD pipelines to streamline software delivery and reduce manual interventions.</li>
+
+<li>Managed containerized applications with Kubernetes, enabling scalable and resilient deployments.</li>
+
+<li>Drove Infrastructure-as-Code adoption using Terraform and Ansible for consistent environment provisioning.</li>
+
+<li>Implemented monitoring and alerting with Prometheus, Grafana, and ELK Stack for improved reliability.</li>
+
+<li>Strengthened cloud security with RBAC, TLS/SSL, and proactive security audits.</li>
+
+<li>Managed Docker workloads on AWS EKS using Linux, Bash, and Git.</li>
+
+<li>Integrated Elasticsearch for advanced log search, index optimization, and query tuning.</li>
+
+<li>Built centralized log management using ELK, handling multi‑source log ingestion and enrichment.</li>
+
+<li>Collaborated with cross-functional teams to set up APM/BPM alerts and improve system health visibility.</li>
+</ul>
+
+
+<p>Worked in as a <strong>Lead DevOps Engineer</strong> for <strong>Kenvue </strong> from <strong>September 2023</strong> to <strong>December 2025</strong></p>
 <p><strong>Key Achievements:</strong></p>
   <ul>
     <li>Improved software release efficiency by implementing optimized CI/CD pipelines using Jenkins, enhancing deployment reliability and speed.</li>
