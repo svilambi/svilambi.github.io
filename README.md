@@ -19,8 +19,7 @@ Lead DevOps Engineer with 11+ years of experience in managing cloud infrastructu
 <p><strong>Key Achievements:</strong></p>
   <ul>
     <li>Improved software release efficiency by implementing optimized CI/CD pipelines using Github Actions, enhancing deployment reliability and speed.</li>
-    <li>Enhanced analytics workflows by building reusable dbt models and scalable ADF pipelines.</li>
-    <li>Reduced troubleshooting time by establishing end-to-end observability with Prometheus, Grafana, and Elasticsearch.</li>
+    <li>Reduced troubleshooting time by establishing end-to-end observability with Splunk.</li>
   </ul>
   <p><strong>Responsibilities:</strong></p>
 <ul>
