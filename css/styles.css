@@ -1,15 +1,15 @@
 
 :root {
 	color-scheme: light;
-	--page: #f5f7f5;
+	--page: #f5f8fb;
 	--surface: #ffffff;
-	--surface-soft: #edf3ef;
-	--ink: #24332d;
-	--muted: #65736c;
-	--line: #dce5df;
-	--accent: #2d6955;
-	--accent-dark: #20513f;
-	--shadow: 0 12px 32px rgba(38, 63, 49, 0.07);
+	--surface-soft: #eaf3fb;
+	--ink: #263746;
+	--muted: #627586;
+	--line: #d8e5ef;
+	--accent: #3979a8;
+	--accent-dark: #285b81;
+	--shadow: 0 12px 32px rgba(39, 77, 108, 0.07);
 }
 
 * {
@@ -80,7 +80,7 @@ a:hover {
 }
 
 .hero {
-	padding: clamp(48px, 8vw, 88px) 24px 60px;
+	padding: clamp(36px, 5vw, 60px) 24px 40px;
 	background: var(--surface-soft);
 	text-align: center;
 }
@@ -168,7 +168,7 @@ h3 {
 }
 
 .btn.secondary:hover {
-	background: #e1ebe5;
+	background: #e1edf6;
 }
 
 .container {
