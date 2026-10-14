@@ -3,17 +3,24 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>DevOps Dashboard</title>
 <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
-<h1>DevOps Dashboard</h1>
+<header class="navbar">
+<h2>DevOps Dashboard</h2>
+<nav aria-label="Main navigation"><a href="index.html">Home</a></nav>
+</header>
 
-<div id="metrics"></div>
+<main class="page-content">
+<h1>GitHub overview</h1>
+<div id="metrics" aria-live="polite"></div>
 
 <h2>GitHub Contribution Graph</h2>
 <img src="https://ghchart.rshah.org/svilambi" alt="GitHub chart">
+</main>
 
 <script src="js/github.js"></script>
 </body>
